@@ -1,6 +1,6 @@
 ## ⚡️ A Few Quick Facts
 
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3psOTMzcmo1Y28xYzUycWdocHJwZHVmMnU3djE1dXhrMzUyNGYwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo3MmYydjE3bm95Y3NnMjFyaGZtZjIzd2FzMTJoMHY2b21zZWM1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Kps6AF12MbD67LfRp/giphy.gif">
 
 - 🔭 I’m currently crafting Flutter magic.
 - 📝 Obsessed with writing clean docs & articles on Medium.
