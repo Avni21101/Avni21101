@@ -2,11 +2,11 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3psOTMzcmo1Y28xYzUycWdocHJwZHVmMnU3djE1dXhrMzUyNGYwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif">
 
-🔭 I’m currently crafting Flutter magic.
-📝 Obsessed with writing clean docs & articles on Medium.
-📢 Speaker at dev events—powered by slides, caffeine & community!  
-🛠️ Contributor on pub.dev
-🎓 Fun Fact: I have a Master’s in Mathematics, but I found my X in cross-platform dev. 😉
+- 🔭 I’m currently crafting Flutter magic.
+- 📝 Obsessed with writing clean docs & articles on Medium.
+- 📢 Speaker at dev events—powered by slides, caffeine & community!  
+- 🛠️ Contributor on pub.dev
+- 🎓 Fun Fact: I have a Master’s in Mathematics, but I found my X in cross-platform dev. 😉
 
 ## 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
