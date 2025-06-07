@@ -1,5 +1,3 @@
-![banner](avni_banner.png)
-
 ## ⚡️ A Few Quick Facts
 
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo3MmYydjE3bm95Y3NnMjFyaGZtZjIzd2FzMTJoMHY2b21zZWM1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Kps6AF12MbD67LfRp/giphy.gif">
