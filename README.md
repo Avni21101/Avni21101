@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently crafting Flutter magic.
 - 📝 Obsessed with writing clean docs & articles on Medium.
-- 📢 Speaker at dev events—powered by slides, caffeine & community!  
+- 📢 Speaker at dev events. Powered by slides, caffeine & community!  
 - 🛠️ Contributor on pub.dev
 - 🎓 Fun Fact: I have a Master’s in Mathematics, but I found my X in cross-platform dev. 😉
 
